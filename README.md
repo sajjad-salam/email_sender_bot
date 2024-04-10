@@ -6,6 +6,7 @@ This Telegram bot script allows you to send emails via Telegram. You can configu
 &nbsp;<p align="center">
   [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
 </p>
+<br>
 ## Requirements
 
 - Python 3.x
