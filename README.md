@@ -1,7 +1,11 @@
 # Email Sending Telegram Bot
 
 This Telegram bot script allows you to send emails via Telegram. You can configure the sender's email, password, recipient's email, subject, message, interval between messages, and the number of messages to be sent.
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
+&nbsp;<p align="center">
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+</p>
 ## Requirements
 
 - Python 3.x
