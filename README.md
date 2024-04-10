@@ -33,7 +33,7 @@ This Telegram bot script allows you to send emails via Telegram. You can configu
 
 ## Contributors
 
-- [Your Name](https://github.com/sajjad-salam)
+- [ENG-SAJJAD](https://github.com/sajjad-salam)
 
 Feel free to contribute, report issues, or suggest improvements by creating a pull request or opening an issue on GitHub.
 
